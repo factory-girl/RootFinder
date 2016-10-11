@@ -1,0 +1,10 @@
+Script started on Fri 04 Apr 2014 10:54:04 PM NDT
+softskeleton@softskeleton:~/workspace/RootFinder/src$ javaR[K RootFinder
+Enter a number greater than zero, or any letter to exit: 9
+Sqrt of 9.0: 3.000000001396984
+Enter a number greater than zero, or any letter to exit: a
+You entered wrong data or chose to quit the program
+softskeleton@softskeleton:~/workspace/RootFinder/src$ exit
+exit
+
+Script done on Fri 04 Apr 2014 10:54:15 PM NDT
